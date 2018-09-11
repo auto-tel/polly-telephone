@@ -27,6 +27,7 @@ cp config.sample.js config.js
 npm run s
 
 # run the client, and it will auto open in default browser
+# then you can play around
 npm run c
 
 ```
