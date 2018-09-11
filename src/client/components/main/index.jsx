@@ -271,7 +271,7 @@ export default class Main extends React.Component {
   render() {
     return (
       <div className="main">
-        <h1>polly-telephone0</h1>
+        <h1>polly-telephone</h1>
         <div id="content-video-audio">
           <div id="log">
             {

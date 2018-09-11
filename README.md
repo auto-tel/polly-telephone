@@ -20,6 +20,9 @@ git clone https://github.com/auto-tel/polly-telephone.git
 cd polly-telephone
 npm i
 
+# create your config, optional
+cp config.sample.js config.js
+
 # run the server
 npm run s
 

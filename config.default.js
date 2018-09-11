@@ -8,10 +8,10 @@ let config = {
     siteName: packInfo.name
   },
   host: 'localhost',
-  port: process.env.PORT || 4370,
+  port: process.env.PORT || 4270,
   devCPUCount: os.cpus().length,
   pkg: require('./package'),
-  devPort: 5370,
+  devPort: 5270,
   awsServer: 'us-east-1',
   VoiceId: 'Amy'
 }
